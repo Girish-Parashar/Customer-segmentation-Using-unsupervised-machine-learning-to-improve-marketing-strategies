@@ -1,5 +1,8 @@
 # Customer Segmentation Using Unsupervised Machine Learning
-![logo](https://github.com/Girish-Parashar/Customer-segmentation-Using-unsupervised-machine-learning-to-improve-marketing-strategies/blob/main/Leonardo_Phoenix_Design_a_sophisticated_visual_for_Customer_Se_2.jpg)
+<p align="center">
+  <img src="https://github.com/Girish-Parashar/Customer-segmentation-Using-unsupervised-machine-learning-to-improve-marketing-strategies/blob/main/Leonardo_Phoenix_Design_a_sophisticated_visual_for_Customer_Se_2.jpg" width="500"/>
+</p>
+
 
 This project applies **unsupervised machine learning techniques**, specifically **clustering**, to segment customers based on their **demographics**, **purchase history**, and **browsing behavior**. The goal is to derive actionable insights that can help businesses create more targeted marketing strategies, improve customer satisfaction, and drive business growth.
 
